@@ -169,6 +169,8 @@ public class Main {
         }
     }
 
+    //ex7
+    
     static void contaPalavras() {
         System.out.print("Digite uma frase: ");
         String frase = scanner.nextLine();
